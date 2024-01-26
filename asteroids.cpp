@@ -282,7 +282,7 @@ int main()
         }
 
 
-        // Display score and high score
+        // Display score 
         COORD scoreCoord;
         scoreCoord.X = totalWidth - 15;
         scoreCoord.Y = 0;
