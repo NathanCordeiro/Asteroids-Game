@@ -57,6 +57,7 @@ void Displayname()
                                         Mission Control here. You are entering the dangerous asteroid belt.
                                         Prepare for a challenging journey. Your spaceship is equipped with advanced
                                         laser technology. Engage hostile asteroids using 'space' to fire bullets.
+                                        Use 'a' and 'd' to move left and right.
 
                                         Your mission: Navigate through the asteroid field and survive at all costs.
                                         Each asteroid destroyed contributes to your score.
